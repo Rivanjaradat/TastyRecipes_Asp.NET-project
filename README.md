@@ -49,6 +49,7 @@ Secure JWT-based authentication.
 
 - Create, update, and delete recipe categories.
 - Retrieve all available categories.
+  
 💬 Comment System:
 
 - Users can add, update, and delete comments on recipes.
