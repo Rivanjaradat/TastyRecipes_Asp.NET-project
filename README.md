@@ -39,10 +39,12 @@ DbContext for Database Management
 Secure JWT-based authentication.
 
 - User registration, login, and password management using ASP.NET Identity.
+  
 🍲 Recipe Management:
 
 - Users can add, update, and delete their recipes.
 - Retrieve all recipes or recipes by a specific user.
+  
 📂 Category Management:
 
 - Create, update, and delete recipe categories.
