@@ -1,0 +1,14 @@
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_core\bin\Debug\net8.0\TastyRecipes_Api_core.deps.json
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_core\bin\Debug\net8.0\TastyRecipes_Api_core.runtimeconfig.json
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_core\bin\Debug\net8.0\TastyRecipes_Api_core.dll
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_core\bin\Debug\net8.0\TastyRecipes_Api_core.pdb
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_core\obj\Debug\net8.0\TastyRecipes_Api_core.csproj.AssemblyReference.cache
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_core\obj\Debug\net8.0\TastyRecipes_Api_core.GeneratedMSBuildEditorConfig.editorconfig
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_core\obj\Debug\net8.0\TastyRecipes_Api_core.AssemblyInfoInputs.cache
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_core\obj\Debug\net8.0\TastyRecipes_Api_core.AssemblyInfo.cs
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_core\obj\Debug\net8.0\TastyRecipes_Api_core.csproj.CoreCompileInputs.cache
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_core\obj\Debug\net8.0\TastyRecipes_Api_core.dll
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_core\obj\Debug\net8.0\refint\TastyRecipes_Api_core.dll
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_core\obj\Debug\net8.0\TastyRecipes_Api_core.pdb
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_core\obj\Debug\net8.0\TastyRecipes_Api_core.genruntimeconfig.cache
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_core\obj\Debug\net8.0\ref\TastyRecipes_Api_core.dll

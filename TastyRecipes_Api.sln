@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TastyRecipes_Api", "TastyRecipes_Api\TastyRecipes_Api.csproj", "{75E55648-8414-403E-BE60-3C3B0B5C47C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TastyRecipes_Api_core", "TastyRecipes_Api_core\TastyRecipes_Api_core.csproj", "{096427FC-BBCA-4C47-86D2-C32C4EFA7DE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TastyRecipes_Api_Infrastructure", "TastyRecipes_Api_Infrastructure\TastyRecipes_Api_Infrastructure.csproj", "{8F236CEE-3A4F-4DBB-B8CE-44C46239A49C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75E55648-8414-403E-BE60-3C3B0B5C47C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E55648-8414-403E-BE60-3C3B0B5C47C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E55648-8414-403E-BE60-3C3B0B5C47C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E55648-8414-403E-BE60-3C3B0B5C47C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{096427FC-BBCA-4C47-86D2-C32C4EFA7DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096427FC-BBCA-4C47-86D2-C32C4EFA7DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096427FC-BBCA-4C47-86D2-C32C4EFA7DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096427FC-BBCA-4C47-86D2-C32C4EFA7DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F236CEE-3A4F-4DBB-B8CE-44C46239A49C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F236CEE-3A4F-4DBB-B8CE-44C46239A49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F236CEE-3A4F-4DBB-B8CE-44C46239A49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F236CEE-3A4F-4DBB-B8CE-44C46239A49C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

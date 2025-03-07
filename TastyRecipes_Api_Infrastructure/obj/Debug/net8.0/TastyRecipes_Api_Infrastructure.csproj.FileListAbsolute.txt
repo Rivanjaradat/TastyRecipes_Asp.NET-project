@@ -1,0 +1,17 @@
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_Infrastructure\bin\Debug\net8.0\TastyRecipes_Api_Infrastructure.deps.json
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_Infrastructure\bin\Debug\net8.0\TastyRecipes_Api_Infrastructure.runtimeconfig.json
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_Infrastructure\bin\Debug\net8.0\TastyRecipes_Api_Infrastructure.dll
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_Infrastructure\bin\Debug\net8.0\TastyRecipes_Api_Infrastructure.pdb
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_Infrastructure\bin\Debug\net8.0\TastyRecipes_Api_core.dll
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_Infrastructure\bin\Debug\net8.0\TastyRecipes_Api_core.pdb
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_Infrastructure\obj\Debug\net8.0\TastyRecipes_Api_Infrastructure.csproj.AssemblyReference.cache
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_Infrastructure\obj\Debug\net8.0\TastyRecipes_Api_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_Infrastructure\obj\Debug\net8.0\TastyRecipes_Api_Infrastructure.AssemblyInfoInputs.cache
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_Infrastructure\obj\Debug\net8.0\TastyRecipes_Api_Infrastructure.AssemblyInfo.cs
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_Infrastructure\obj\Debug\net8.0\TastyRecipes_Api_Infrastructure.csproj.CoreCompileInputs.cache
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_Infrastructure\obj\Debug\net8.0\TastyRec.8E76961C.Up2Date
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_Infrastructure\obj\Debug\net8.0\TastyRecipes_Api_Infrastructure.dll
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_Infrastructure\obj\Debug\net8.0\refint\TastyRecipes_Api_Infrastructure.dll
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_Infrastructure\obj\Debug\net8.0\TastyRecipes_Api_Infrastructure.pdb
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_Infrastructure\obj\Debug\net8.0\TastyRecipes_Api_Infrastructure.genruntimeconfig.cache
+D:\reev\training\fullstack\backend\API\TastyRecipes_Api\TastyRecipes_Api_Infrastructure\obj\Debug\net8.0\ref\TastyRecipes_Api_Infrastructure.dll
